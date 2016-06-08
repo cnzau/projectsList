@@ -8,7 +8,7 @@
 ---
 
 ## Ma3vybe
-[GitHub](https://github.com/cnzau/ma3vybe)
+[GitHub](https://github.com/cnzau/Ma3vybe)
 
 **Details**
 
@@ -16,14 +16,17 @@ This is an android application for our transport industry for the purpose of com
 
 **Features**
 
-1. Chat
-2. Rate
-3. Updates
+1. Rate
+2. Review
+3. Chat
+4. Updates
 
 
 **Contributors**
 
 [Clement Nzau](https://github.com/cnzau)
+
+[Qusai Alfaki](https://github.com/syntaxSizer)
 
 
 ## My Church
@@ -61,3 +64,23 @@ This is an android application for a torch with basic features plus dim and brig
 **Contributors**
 
 [Clement Nzau](https://github.com/cnzau)
+
+
+## MobWebz Solutions
+[GitHub](https://github.com/cnzau/mobwebz)
+
+**Details**
+
+This is a frontend website for a tech company (Mobile and Web Applications).
+
+**Features**
+
+1. Designs
+2. Contact Form
+
+
+**Contributors**
+
+[Clement Nzau](https://github.com/cnzau)
+
+[Erick Munene](https://github.com/erick-munene)
