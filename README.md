@@ -3,7 +3,7 @@
 
 ---
   - [personal website](https://cnzau.bitballoon.com)
-  - [personal repo](https://github.com/cnzau/cnzau)
+  - [personal repo](https://github.com/cnzau/)
   - [Personal blog](http://cnzau.github.io/cnzau/blog)
 ---
 
