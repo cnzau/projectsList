@@ -13,20 +13,51 @@
 **Details**
 
 This is an android application for our transport industry for the purpose of communication.
+
 **Features**
+
 1. Chat
 2. Rate
-3. Post
+3. Updates
 
 
-**Contributors
+**Contributors**
+
+[Clement Nzau](https://github.com/cnzau)
+
 
 ## My Church
 [GitHub](https://github.com/cnzau/MyChurch)
 
 **Details**
 
+This is an android application for a church with the purpose of sharing information and updates.
+
+**Features**
+
+1. Announcements' post
+2. Notifications / Alerts
+3. Sermons
+
+
+**Contributors**
+
+[Clement Nzau](https://github.com/cnzau)
+
 ## Torch
 [GitHub](https://github.com/cnzau/torch)
 
 **Details**
+
+This is an android application for a torch with basic features plus dim and bright functionality.
+
+**Features**
+
+1. Screen Flash Light
+2. LED Flash
+3. Dim & Bright LED Flash
+
+
+**Contributors**
+
+[Clement Nzau](https://github.com/cnzau)
