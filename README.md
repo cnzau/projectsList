@@ -7,8 +7,8 @@
   - [Personal blog](http://cnzau.github.io/cnzau/blog)
 ---
 
-## Ma3vybe
-[GitHub](https://github.com/cnzau/Ma3vybe)
+## Ma3vibe
+[GitHub](https://github.com/cnzau/ma3vibe)
 
 **Details**
 
