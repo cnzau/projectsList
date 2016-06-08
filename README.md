@@ -8,7 +8,7 @@
 ---
 
 ## Ma3vibe
-[GitHub](https://github.com/cnzau/ma3vibe)
+[GitHub](https://github.com/cnzau/Ma3vibe)
 
 **Details**
 
