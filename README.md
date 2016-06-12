@@ -5,6 +5,7 @@
   - [personal website](https://cnzau.bitballoon.com)
   - [personal repo](https://github.com/cnzau/)
   - [Personal blog](http://cnzau.github.io/cnzau/blog)
+
 ---
 
 ## Ma3vibe
@@ -21,17 +22,17 @@ This is an android application for our transport industry for the purpose of com
 3. Chat
 4. Updates
 
-
 **Contributors**
 
 [Clement Nzau](https://github.com/cnzau)
 
 [Qusai Alfaki](https://github.com/syntaxSizer)
 
+---
 
 ## My Church
 [GitHub](https://github.com/cnzau/MyChurch)
-
+[Demo](http://android-mychurch.bitballoon.com/)
 **Details**
 
 This is an android application for a church with the purpose of sharing information and updates.
@@ -42,10 +43,11 @@ This is an android application for a church with the purpose of sharing informat
 2. Notifications / Alerts
 3. Sermons
 
-
 **Contributors**
 
 [Clement Nzau](https://github.com/cnzau)
+
+---
 
 ## Torch
 [GitHub](https://github.com/cnzau/torch)
@@ -60,11 +62,11 @@ This is an android application for a torch with basic features plus dim and brig
 2. LED Flash
 3. Dim & Bright LED Flash
 
-
 **Contributors**
 
 [Clement Nzau](https://github.com/cnzau)
 
+---
 
 ## MobWebz Solutions
 [GitHub](https://github.com/cnzau/mobwebz)
@@ -78,9 +80,10 @@ This is a frontend website for a tech company (Mobile and Web Applications).
 1. Designs
 2. Contact Form
 
-
 **Contributors**
 
 [Clement Nzau](https://github.com/cnzau)
 
 [Erick Munene](https://github.com/erick-munene)
+
+---
