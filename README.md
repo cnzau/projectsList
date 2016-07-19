@@ -49,8 +49,8 @@ This is an android application for a church with the purpose of sharing informat
 
 ---
 
-## Torch
-[GitHub](https://github.com/cnzau/torch)
+## SmartFlash
+[GitHub](https://github.com/cnzau/SmartFlash)
 
 **Details**
 
@@ -85,5 +85,44 @@ This is a frontend website for a tech company (Mobile and Web Applications).
 [Clement Nzau](https://github.com/cnzau)
 
 [Erick Munene](https://github.com/erick-munene)
+
+---
+
+## Providence hotel
+[GitHub](https://github.com/season6/providenceHotel)
+
+**Details**
+
+This is a frontend website for a hotel.
+
+**Features**
+
+1. About
+2. Contact Form
+3. Booking & Reservation
+
+**Contributors**
+
+[Clement Nzau](https://github.com/cnzau)
+
+---
+
+## SpeakOuts
+***to begin next week*
+
+[GitHub]()
+
+**Details**
+
+This is a web application for sharing things advices and pressing issues.
+
+**Features**
+
+1. User accounts
+2. Unnonymous postings
+
+**Contributors**
+
+[Clement Nzau](https://github.com/cnzau)
 
 ---
