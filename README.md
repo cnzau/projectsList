@@ -67,6 +67,29 @@ This is an android application for a torch with basic features plus dim and brig
 [Clement Nzau](https://github.com/cnzau)
 
 ---
+# Group project
+## ChildCare
+[GitHub](https://github.com/season6/twist)
+
+**Details**
+
+Android app providing information on how to care for a child.
+
+**Features**
+
+1. Profile - this is where the user installs and sign in to the application.
+2. View - Searches/ Fetches and displays frequently asked questions and the answers provided according to the various categories.
+3. Post - Where User can post a question concerning baby care giving.
+4. Commenting - This where user can answer to any answered questions that have been posted.
+5. Endorsing - User can either like or dislike on comments that have been given.
+
+**Contributors**
+
+1. [Clement Nzau](https://github.com/cnzau)
+2. [John Wasike](https://github.com/johntechie)
+3. [Dennis Githua](https://github.com/Deetrixx)
+
+---
 
 ## MobWebz Solutions
 [GitHub](https://github.com/cnzau/mobwebz)
