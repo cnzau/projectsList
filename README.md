@@ -4,7 +4,7 @@
 ---
   - [personal website](https://cnzau.bitballoon.com)
   - [personal repo](https://github.com/cnzau/)
-  - [Personal blog](http://cnzau.github.io/cnzau/blog)
+  - [Personal blog](http://cnzau.github.io/blog)
 
 ---
 
@@ -123,26 +123,6 @@ This is a frontend website for a hotel.
 1. About
 2. Contact Form
 3. Booking & Reservation
-
-**Contributors**
-
-[Clement Nzau](https://github.com/cnzau)
-
----
-
-## SpeakOuts
-***to begin next week*
-
-[GitHub]()
-
-**Details**
-
-This is a web application for sharing things advices and pressing issues.
-
-**Features**
-
-1. User accounts
-2. Unnonymous postings
 
 **Contributors**
 
